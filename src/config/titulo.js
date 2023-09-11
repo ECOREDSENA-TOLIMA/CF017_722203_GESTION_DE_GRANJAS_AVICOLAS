@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Recurso agua en granjas avícolas y mitigación de olores ofensivos'
