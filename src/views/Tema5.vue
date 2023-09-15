@@ -7,7 +7,7 @@
         span 5
       h1 Señalización y demarcación de áreas restringidas (concepto, importancia y normativa)
 
-    p.mb-4(data-aos="flip-down") Las señales son un conjunto de estímulos que condicionan la acción de la persona que la recibe, cuyo objetivo es llamar la atención rápida, hacia los objetos o situaciones que puedan afectar la integridad física de las personas y demás elementos de trabajo, los colores de las señalizaciones permiten asociarlo con el significado y la prioridad en la acción a realizar por seguridad
+    p.mb-4(data-aos="flip-down") Las señales son un conjunto de estímulos que condicionan la acción de la persona que la recibe, cuyo objetivo es llamar la atención rápida, hacia los objetos o situaciones que puedan afectar la integridad física de las personas y demás elementos de trabajo, los colores de las señalizaciones permiten asociarlo con el significado y la prioridad en la acción a realizar por seguridad.
 
     p.mb-4(data-aos="flip-down") En la siguiente tabla se relaciona el color, significado y aplicación:
 
@@ -62,9 +62,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")
         .titulo-sexto.color-primario.mb-1
-          p.titulo.pb-0.mb-0 #[b Figura 14.] #[i Clasificación de la señalización] 
+          p.titulo.pb-0.mb-0 #[b Figura 8.] #[i Clasificación de la señalización] 
         figure 
-          img(src='@/assets/curso/temas/tema5/tema5-f14.png', alt='En la figura 14 se muestra una serie de paneles con diferentes señales de seguridad y advertencia. Cada señal tiene un significado específico y se caracteriza por su diseño distintivo.')  
+          img(src='@/assets/curso/temas/tema5/tema5-f14.png', alt='En la figura 8 se muestra una serie de paneles con diferentes señales de seguridad y advertencia. Cada señal tiene un significado específico y se caracteriza por su diseño distintivo.')  
           figcaption Nota. Tomado de Atende Agro do Issga. (2015). 
 
     p.mb-5(data-aos="flip-down") La demarcación es la delimitación de lugares donde se labora, y se usa para indicar a las personas cuáles son las zonas de trabajo o restringidas, con estas se marca la diferencia entre áreas, como por ejemplo rutas de circulación, almacenamiento, áreas de trabajo, áreas restringidas para cierto personal, áreas peligrosas, etc.

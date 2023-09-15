@@ -480,7 +480,7 @@
         .titulo-sexto.color-primario.mb-1
           p.titulo.pb-0.mb-0 #[b Figura 7.] #[i Ejemplo de ecomapa] 
         figure 
-          img(src='@/assets/curso/temas/tema1/tema1-f7.png', alt='La figura 4 muestra tres recipientes para depositar residuos, una blanca para residuos aprovechables, una verde para residuos orgánicos aprovechables y una negra para  los residuos no aprovechables.')  
+          img(src='@/assets/curso/temas/tema1/tema1-f7.png', alt='La figura 7 muestra tres recipientes para depositar residuos, una blanca para residuos aprovechables, una verde para residuos orgánicos aprovechables y una negra para  los residuos no aprovechables.')  
           figcaption.mt-2 Nota. Tomado de #[a(href="https://es.scribd.com/document/437801541/ecomapa" target="_blank" style="color:blue") https://es.scribd.com/document/437801541/ecomapa]
 
     Separador
@@ -724,7 +724,7 @@
 
     p.mb-4(data-aos="fade-down") Es importante destacar que la gestión de residuos es un tema altamente regulado, y las organizaciones que manejan estos residuos deben cumplir estrictamente con las normativas locales y nacionales. Además, se recomienda consultar a expertos en gestión de residuos y a las autoridades ambientales locales para garantizar el cumplimiento de todas las regulaciones y requisitos específicos en la ubicación y el tipo de residuos que se manejan.
 
-    p.mb-4(data-aos="fade-down") Los Almacenamiento de residuos la mayoría de las veces se divide en bodegas una bodega de almacenamiento para residuos no peligrosos ordinarios, otra bodega de almacenamiento de residuos reciclables y otra bodega de residuos peligrosos, o se comparte la bodega colocando divisiones, para el caso de residuos peligrosos se debe tener en cuenta la matriz de compatibilidad de los residuos.
+    p.mb-4(data-aos="fade-down") Los almacenamiento de residuos la mayoría de las veces se divide en bodegas una bodega de almacenamiento para residuos no peligrosos ordinarios, otra bodega de almacenamiento de residuos reciclables y otra bodega de residuos peligrosos, o se comparte la bodega colocando divisiones, para el caso de residuos peligrosos se debe tener en cuenta la matriz de compatibilidad de los residuos.
 
 
     Separador

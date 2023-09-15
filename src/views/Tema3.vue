@@ -13,7 +13,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-5.col-12.mb-4.mb-md-0
-            h4 Roto Acelerador
+            h4 Roto acelerador
             p Es un equipo que permite controlar las variables del proceso de compostaje, brindando seguridad sanitaria y ambiental, así como un compost final de muy buena calidad para utilizar en agronomía.
           .col-md-7.col-12
             figure

@@ -100,9 +100,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")
         .titulo-sexto.color-primario.mb-1
-          p.titulo.pb-0.mb-0 #[b Figura 15.] #[i Sistema de clasificación Battelle Columbus] 
+          p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Sistema de clasificación Battelle Columbus] 
         figure 
-          img(src='@/assets/curso/temas/tema6/tema6-f15.svg', alt='En la figura 15 se muestra un sistema de clasificación Battelle Columbus por niveles.')  
+          img(src='@/assets/curso/temas/tema6/tema6-f15.svg', alt='En la figura 9 se muestra un sistema de clasificación Battelle Columbus por niveles.')  
 
     p.mb-4(data-aos="fade-left") Cada nivel (nivel I), se divide en varios componentes, cada componente (nivel II), en varios parámetros y cada parámetro (nivel III), en una o más mediciones. Se identifican un total de cuatro (4) categorías, dieciocho (18) componentes y setenta y ocho (78) parámetros (Ponce, 2021).
 
@@ -113,13 +113,13 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")
         .titulo-sexto.color-primario.mb-1
-          p.titulo.pb-0.mb-0 #[b Figura 16.] #[i Valoración cualitativa del impacto ambiental] 
+          p.titulo.pb-0.mb-0 #[b Figura 10.] #[i Valoración cualitativa del impacto ambiental] 
         figure 
-          img(src='@/assets/curso/temas/tema6/tema6-f16.svg', alt='En la figura 16 se muestra el método Conesa, que es una técnica utilizada en la gestión de proyectos que permite priorizar las tareas y asignar recursos de manera eficiente.')  
+          img(src='@/assets/curso/temas/tema6/tema6-f16.svg', alt='En la figura 10 se muestra el método Conesa, que es una técnica utilizada en la gestión de proyectos que permite priorizar las tareas y asignar recursos de manera eficiente.')  
 
     
     .titulo-segundo.color-acento-contenido
-      h2 Reducción de olores derivados de las grajas avícolas
+      h2 Reducción de olores derivados de las granjas avícolas
 
     p.mb-4(data-aos="fade-left") Este aspecto es uno de impactos que más debe controlarse, en la Resolución 1541 del 2013 del Ministerio de Ambiente, se establecen los niveles permisibles de calidad del aire o inmisión y el procedimiento para la evaluación de actividades, que generan olores ofensivos de la industria, para lo cual se debe implementar un Plan de Reducción de Olores Ofensivos (PRIO), el cual debe ser diseñado aplicando buenas prácticas ambientales.
 

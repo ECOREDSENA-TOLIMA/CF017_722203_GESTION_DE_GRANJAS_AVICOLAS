@@ -14,9 +14,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")
         .titulo-sexto.color-primario.mb-1
-          p.titulo.pb-0.mb-0 #[b Figura 17.] #[i Mapa conceptual plan de mejoramiento] 
+          p.titulo.pb-0.mb-0 #[b Figura 11.] #[i Mapa conceptual plan de mejoramiento] 
         figure 
-          img(src='@/assets/curso/temas/tema9/tema9-f17.svg', alt='En la figura 17 se muestra el diagrama de flujo del plan de mejoramiento.')  
+          img(src='@/assets/curso/temas/tema9/tema9-f17.svg', alt='En la figura 11 se muestra el diagrama de flujo del plan de mejoramiento.')  
 
     p.mb-4(data-aos="fade-down") Como primera medida se deben planificar las acciones a ejecutar dentro del plan de mejoramiento, ya que, partiendo de una buena planificación, se garantiza el éxito del plan, y es allí donde se establece la hoja de ruta para la ejecución de cada programa. 
 
