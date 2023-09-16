@@ -341,7 +341,7 @@ export default {
         'agentes infecciosos que pueden provocar enfermedades a su huésped. Este término se emplea normalmente para describir microorganismos como los virus, bacterias y hongos, entre otros. Estos agentes pueden perturbar la fisiología normal de plantas, animales y humanos.',
     },
     {
-      termino: 'Plan de gestión integral de residuos sólidos (PGIRS)',
+      termino: 'Plan de Gestión Integral de Residuos Sólidos (PGIRS)',
       significado:
         'instrumento que contiene un conjunto ordenado de objetivos, metas, programas, proyectos, actividades y recursos definidos por uno o más entes para el manejo de los residuos, basado en la política de gestión integral de los mismos, el cual se ejecuta durante un período determinado, basándose en un diagnóstico inicial, en su proyección hacia el futuro y en un plan financiero viable.',
     },

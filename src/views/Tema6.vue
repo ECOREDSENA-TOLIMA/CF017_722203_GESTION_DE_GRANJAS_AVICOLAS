@@ -39,7 +39,7 @@
               figure
                 img(src='@/assets/curso/temas/tema6/tema6-4.png', alt='')
             .col-md-8.col-12.col-lg-9
-              p se debe realizar un estudio de mercado, que debe establecer la viabilidad de la actividad, en el sitio destinado para la granja, considerar las vías de acceso, la disponibilidad de la materia prima, etc., así analizar el costo-beneficio de la instalación de la granja.
+              p Se debe realizar un estudio de mercado, que debe establecer la viabilidad de la actividad, en el sitio destinado para la granja, considerar las vías de acceso, la disponibilidad de la materia prima, etc., así analizar el costo-beneficio de la instalación de la granja.
 
     p.mb-4(data-aos="flip-down") Para esto, se traen a colación las metodologías más empleadas, en la identificación de dichos impactos, donde se evalúan los componentes que se relacionan directa e indirectamente con el proceso de producción, de esta manera se garantiza una adecuada gestión:
 

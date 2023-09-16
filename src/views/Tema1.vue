@@ -882,6 +882,7 @@
           li.mb-0
             span.text-bold ●
             | Evaluación del impacto ambiental de la gestión de residuos actual de la organización.
+          li.mb-0
             span.text-bold ●
             | Identificación de posibles riesgos ambientales y preocupaciones.
       .col-12.p-3(data-aos="fade-down")
