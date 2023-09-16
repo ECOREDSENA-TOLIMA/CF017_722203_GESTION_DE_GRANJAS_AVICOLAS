@@ -114,19 +114,19 @@
     div.ms-md-3.mb-5
       ol.lista-ol(data-aos="fade-down")
         li 
-          span.text-bold a. 
+          span.text-bold a)
           | #[b Clasificación de los residuos según grado de peligrosidad:] residuos peligrosos y no peligrosos, lo que significa que se agrupan en función de su nivel de amenaza para el medio ambiente o la salud humana.
         li 
-          span.text-bold b. 
+          span.text-bold b) 
           | #[b Clasificación de los residuos según su origen:] incluyen los residuos domésticos, que provienen de los hogares; los residuos comerciales, que son generados por actividades comerciales; los residuos industriales, que se originan en el sector industrial; los residuos. de construcción y demolición, que se producen en la industria de la construcción; los residuos sanitarios, que se generan en centros y establecimientos de atención sanitaria; los residuos mineros, que provienen de la actividad minera; y los residuos agrícolas, que están relacionados con el sector agrícola.
         li 
-          span.text-bold c. 
+          span.text-bold c) 
           | #[b Clasificación de los residuos según su aprovechamiento:] se clasifican en aprovechables y no aprovechables, esto depende de cada caso en particular, del residuo que se esté tratando y su estado (calidad del residuo).
         li 
-          span.text-bold d. 
+          span.text-bold d)
           | #[b Clasificación de los residuos según su biodegradabilidad:] si es orgánico o inorgánico.
         li 
-          span.text-bold e. 
+          span.text-bold e) 
           | #[b Clasificación según su composición:] en función de los tipos de materiales o componentes químicos de los cuales estén hechos.
 
 
@@ -222,32 +222,105 @@
           p •	Mejorar los sistemas de eliminación, tratamiento y disposición final de los residuos sólidos.
 
     p.mb-4(data-aos="fade-down") A continuación, se mencionan algunas de las normas más relevantes relacionadas con la gestión de residuos sólidos en el país:
-        
-    ul.lista-ul.mb-4.ms-md-4
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Decreto 1076 de 2015:] este decreto reglamenta el manejo de los residuos peligrosos en Colombia. Establece los procedimientos para la identificación, clasificación, almacenamiento, transporte, tratamiento y disposición final de estos residuos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Resolución 1164 de 2002:] esta resolución establece el Reglamento Técnico para la Gestión de Residuos Peligrosos. Contiene pautas para la identificación, clasificación y manejo de estos residuos, así como las responsabilidades de los generadores, transportadores y gestores de residuos peligrosos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Decreto 4741 de 2005:] regula la gestión integral de los residuos sólidos no peligrosos. Establece los lineamientos para la prevención, reducción, aprovechamiento y disposición final de estos residuos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Resolución 1401 de 2007:] esta resolución establece los criterios y directrices técnicas para la clasificación de los residuos sólidos. Define las categorías de residuos sólidos, incluyendo peligrosos y no peligrosos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Resolución 1447 de 2018:] regula el manejo de los residuos de aparatos eléctricos y electrónicos (RAEE) en Colombia. Establece responsabilidades para fabricantes, importadores y productores de estos dispositivos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Resolución 7542 de 2015:] esta resolución regula el manejo de los envases y empaques posconsumo. Establece las obligaciones de los productores y distribuidores en la gestión de estos residuos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Decreto 596 de 2016:] regula la gestión de los Residuos de Construcción y Demolición (RCD) en Colombia. Establece las responsabilidades de los generadores y gestores de estos residuos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Ley 1811 de 2016:] esta ley establece la prohibición de bolsas plásticas no reutilizables en el país y promueve la reducción del consumo de plástico.
+    
+    .row.justify-content-center
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/uno.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Decreto 1076 de 2015
+              p.mb-0 Este decreto reglamenta el manejo de los residuos peligrosos en Colombia. Establece los procedimientos para la identificación, clasificación, almacenamiento, transporte, tratamiento y disposición final de estos residuos.
+      
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/dos.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Resolución 1164 de 2002
+              p.mb-0 Esta resolución establece el Reglamento Técnico para la Gestión de Residuos Peligrosos. Contiene pautas para la identificación, clasificación y manejo de estos residuos, así como las responsabilidades de los generadores, transportadores y gestores de residuos peligrosos.
+
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/tres.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Decreto 4741 de 2005
+              p.mb-0 Regula la gestión integral de los residuos sólidos no peligrosos. Establece los lineamientos para la prevención, reducción, aprovechamiento y disposición final de estos residuos.
+
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/cuatro.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Resolución 1401 de 2007
+              p.mb-0 Esta resolución establece los criterios y directrices técnicas para la clasificación de los residuos sólidos. Define las categorías de residuos sólidos, incluyendo peligrosos y no peligrosos.
+
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/cinco.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Resolución 1447 de 2018
+              p.mb-0 Regula el manejo de los residuos de aparatos eléctricos y electrónicos (RAEE) en Colombia. Establece responsabilidades para fabricantes, importadores y productores de estos dispositivos.
+
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/seis.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Resolución 7542 de 2015
+              p.mb-0 Esta resolución regula el manejo de los envases y empaques posconsumo. Establece las obligaciones de los productores y distribuidores en la gestión de estos residuos.
+
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/siete.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Decreto 596 de 2016
+              p.mb-0 Regula la gestión de los Residuos de Construcción y Demolición (RCD) en Colombia. Establece las responsabilidades de los generadores y gestores de estos residuos.
+
+      .col-md-6.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ocho.svg' alt='')
+          .tarjeta.tarjeta--azul--borde
+            .p-4
+              h4 Ley 1811 de 2016
+              p.mb-0 Esta ley establece la prohibición de bolsas plásticas no reutilizables en el país y promueve la reducción del consumo de plástico.
+
+    //- ul.lista-ul.mb-4.ms-md-4
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Decreto 1076 de 2015:] este decreto reglamenta el manejo de los residuos peligrosos en Colombia. Establece los procedimientos para la identificación, clasificación, almacenamiento, transporte, tratamiento y disposición final de estos residuos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Resolución 1164 de 2002:] esta resolución establece el Reglamento Técnico para la Gestión de Residuos Peligrosos. Contiene pautas para la identificación, clasificación y manejo de estos residuos, así como las responsabilidades de los generadores, transportadores y gestores de residuos peligrosos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Decreto 4741 de 2005:] regula la gestión integral de los residuos sólidos no peligrosos. Establece los lineamientos para la prevención, reducción, aprovechamiento y disposición final de estos residuos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Resolución 1401 de 2007:] esta resolución establece los criterios y directrices técnicas para la clasificación de los residuos sólidos. Define las categorías de residuos sólidos, incluyendo peligrosos y no peligrosos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Resolución 1447 de 2018:] regula el manejo de los residuos de aparatos eléctricos y electrónicos (RAEE) en Colombia. Establece responsabilidades para fabricantes, importadores y productores de estos dispositivos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Resolución 7542 de 2015:] esta resolución regula el manejo de los envases y empaques posconsumo. Establece las obligaciones de los productores y distribuidores en la gestión de estos residuos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Decreto 596 de 2016:] regula la gestión de los Residuos de Construcción y Demolición (RCD) en Colombia. Establece las responsabilidades de los generadores y gestores de estos residuos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Ley 1811 de 2016:] esta ley establece la prohibición de bolsas plásticas no reutilizables en el país y promueve la reducción del consumo de plástico.
       
     p.mb-4(data-aos="fade-down") Es importante destacar que Colombia está trabajando continuamente en fortalecer su marco normativo relacionado con la gestión de residuos sólidos, con el objetivo de promover la reducción, reutilización y reciclaje, así como garantizar un manejo adecuado de los residuos peligrosos para proteger la salud pública y el medio ambiente. Por lo tanto, es fundamental estar al tanto de las normativas vigentes y las actualizaciones en este campo.
 
@@ -290,22 +363,47 @@
 
     p.mb-4(data-aos="fade-down") Para determinar los tipos de recipientes necesarios en la gestión de residuos, es esencial llevar a cabo una caracterización y un aforo de los residuos, ya sean peligrosos o no peligrosos, que se generan en la organización. Esta caracterización debe abordar aspectos como la composición, cantidad, características y calidad de los residuos. Se recomienda utilizar una de las metodologías disponibles para este propósito, con el objetivo de obtener datos precisos y fundamentados.
 
-    h5.mb-4(data-aos="fade-down") a) Identificación de recipientes
+    .cajon-b.color-acento-contenido.py-3
+      h5.mb-4(data-aos="fade-down") a) Identificación de recipientes
+      p.mb-4(data-aos="fade-down") En Colombia, la identificación de los recipientes de residuos peligrosos y no peligrosos sigue las normativas y estándares establecidos por las autoridades ambientales. La normativa principal que regula esta identificación es el Decreto 1076 de 2015, que establece el Reglamento Técnico en Gestión de Residuos Peligrosos. A continuación, se encuentra la información sobre cómo se identifican estos recipientes:
 
-    p.mb-4(data-aos="fade-down") En Colombia, la identificación de los recipientes de residuos peligrosos y no peligrosos sigue las normativas y estándares establecidos por las autoridades ambientales. La normativa principal que regula esta identificación es el Decreto 1076 de 2015, que establece el Reglamento Técnico en Gestión de Residuos Peligrosos. A continuación, se encuentra la información sobre cómo se identifican estos recipientes:
-
-    p.mb-4(data-aos="fade-down") #[b Recipientes para residuos peligrosos:] los residuos peligrosos son aquellos que, debido a sus características químicas, biológicas o físicas, pueden representar un riesgo para la salud humana o el medio ambiente si no se manejan adecuadamente. La identificación de los recipientes para residuos peligrosos se realiza de la siguiente manera:
+    p.mb-5(data-aos="fade-down") #[b Recipientes para residuos peligrosos:] los residuos peligrosos son aquellos que, debido a sus características químicas, biológicas o físicas, pueden representar un riesgo para la salud humana o el medio ambiente si no se manejan adecuadamente. La identificación de los recipientes para residuos peligrosos se realiza de la siguiente manera:
    
-    ul.lista-ul.mb-4.ms-md-4
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Color del contenedor:] los recipientes para residuos peligrosos deben ser de color amarillo o rojo. Estos colores son fácilmente reconocibles y se utilizan internacionalmente para indicar la presencia de residuos peligrosos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Etiquetas o símbolos:] los contenedores de residuos peligrosos también deben llevar etiquetas con información específica sobre el tipo de residuo peligroso que se almacena en el interior. Estas etiquetas deben incluir la denominación técnica del residuo, las precauciones de seguridad, el nombre y contacto del generador del residuo, entre otros datos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Identificación de peligro:] además, es importante que los recipientes tengan algún tipo de identificación de peligro, como el símbolo de sustancias peligrosas, que es un rombo con pictogramas que indican los riesgos asociados al residuo.
+    .row.justify-content-center
+      .col-12.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.custom-c.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-1.svg' alt='')
+          .tarjeta.tarjeta--custom--borde
+            .p-4
+              p.mb-0 #[b Color del contenedor:] los recipientes para residuos peligrosos deben ser de color amarillo o rojo. Estos colores son fácilmente reconocibles y se utilizan internacionalmente para indicar la presencia de residuos peligrosos.
+      
+      .col-12.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.custom-c.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-2.svg' alt='')
+          .tarjeta.tarjeta--custom--borde
+            .p-4
+              p.mb-0 #[b Etiquetas o símbolos:] los contenedores de residuos peligrosos también deben llevar etiquetas con información específica sobre el tipo de residuo peligroso que se almacena en el interior. Estas etiquetas deben incluir la denominación técnica del residuo, las precauciones de seguridad, el nombre y contacto del generador del residuo, entre otros datos.
+      
+      .col-12.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.custom-c.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-3.svg' alt='')
+          .tarjeta.tarjeta--custom--borde
+            .p-4
+              p.mb-0 #[b Identificación de peligro:] además, es importante que los recipientes tengan algún tipo de identificación de peligro, como el símbolo de sustancias peligrosas, que es un rombo con pictogramas que indican los riesgos asociados al residuo.
+
+    //- ul.lista-ul.mb-4.ms-md-4
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Color del contenedor:] los recipientes para residuos peligrosos deben ser de color amarillo o rojo. Estos colores son fácilmente reconocibles y se utilizan internacionalmente para indicar la presencia de residuos peligrosos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Etiquetas o símbolos:] los contenedores de residuos peligrosos también deben llevar etiquetas con información específica sobre el tipo de residuo peligroso que se almacena en el interior. Estas etiquetas deben incluir la denominación técnica del residuo, las precauciones de seguridad, el nombre y contacto del generador del residuo, entre otros datos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Identificación de peligro:] además, es importante que los recipientes tengan algún tipo de identificación de peligro, como el símbolo de sustancias peligrosas, que es un rombo con pictogramas que indican los riesgos asociados al residuo.
 
     p.mb-4(data-aos="fade-down") #[b Recipientes para residuos no peligrosos:] los residuos no peligrosos son aquellos que no presentan riesgos significativos para la salud humana ni el medio ambiente. La identificación de los recipientes para residuos no peligrosos puede variar, pero generalmente se tienen en cuenta las siguientes pautas:
 
@@ -320,22 +418,39 @@
     p.mb-4(data-aos="fade-down") Es importante tener en cuenta que las regulaciones y prácticas pueden variar según la jurisdicción y la entidad encargada de la gestión de residuos en Colombia. Por lo tanto, es fundamental consultar las regulaciones locales y seguir las pautas proporcionadas por las autoridades ambientales para la identificación y manejo adecuado de residuos peligrosos y no peligrosos en tu área específica.
     p.mb-4(data-aos="fade-down") La separación en la fuente es un elemento clave en la adecuada gestión de residuos en Colombia y en muchos otros lugares del mundo. Se trata de la separación inicial y selectiva de los residuos en su lugar de origen, antes de que sean recolectados de manera conjunta. Aquí hay algunos puntos clave relacionados con la separación en la fuente y la identificación de recipientes según el código de colores en Colombia:
 
-    ul.lista-ul.mb-4.ms-md-4
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Diagnóstico y clasificación de residuos:] antes de implementar un programa de separación en la fuente, es fundamental realizar un diagnóstico para determinar qué tipos de residuos se generan en cada área de la organización y en qué cantidades. Esto permitirá definir la estrategia adecuada para la gestión de residuos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Recipientes según el código de colores:] el uso de recipientes con colores específicos es una práctica común para facilitar la identificación y separación de los residuos. Los colores de los recipientes suelen seguir un estándar internacional que ayuda a clasificar los residuos de manera efectiva. Por ejemplo, el amarillo para residuos peligrosos, el verde para orgánicos, el azul para reciclables y el gris o negro para no reciclables.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Ubicación estratégica de recipientes:] es importante colocar los recipientes de manera estratégica en las instalaciones de la organización. Deben estar fácilmente accesibles y visibles para que los empleados y visitantes puedan desechar sus residuos adecuadamente.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Adaptación de recipientes:] en caso de que los recipientes existentes en la organización no cumplan con el código de colores, es posible adaptarlos temporalmente mediante pintura o cintas adhesivas visibles hasta que se realice la compra de los recipientes adecuados. Esta adaptación provisional es útil para garantizar la separación adecuada de los residuos mientras se implementan mejoras a largo plazo.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Educación y capacitación:] junto con la infraestructura adecuada, es esencial proporcionar capacitación y concienciación a los empleados y miembros de la organización sobre la importancia de la separación en la fuente y la gestión adecuada de los residuos.
+    PasosA.color-primario.mb-5(tipo="n" data-aos="fade-down")
+      div
+        h4 Diagnóstico y clasificación de residuos
+        p Antes de implementar un programa de separación en la fuente, es fundamental realizar un diagnóstico para determinar qué tipos de residuos se generan en cada área de la organización y en qué cantidades. Esto permitirá definir la estrategia adecuada para la gestión de residuos.
+      div
+        h4 Recipientes según el código de colores
+        p El uso de recipientes con colores específicos es una práctica común para facilitar la identificación y separación de los residuos. Los colores de los recipientes suelen seguir un estándar internacional que ayuda a clasificar los residuos de manera efectiva. Por ejemplo, el amarillo para residuos peligrosos, el verde para orgánicos, el azul para reciclables y el gris o negro para no reciclables.
+      div
+        h4 Ubicación estratégica de recipientes
+        p Es importante colocar los recipientes de manera estratégica en las instalaciones de la organización. Deben estar fácilmente accesibles y visibles para que los empleados y visitantes puedan desechar sus residuos adecuadamente.
+      div
+        h4 Adaptación de recipientes
+        p En caso de que los recipientes existentes en la organización no cumplan con el código de colores, es posible adaptarlos temporalmente mediante pintura o cintas adhesivas visibles hasta que se realice la compra de los recipientes adecuados. Esta adaptación provisional es útil para garantizar la separación adecuada de los residuos mientras se implementan mejoras a largo plazo.
+      div
+        h4 Educación y capacitación
+        p Junto con la infraestructura adecuada, es esencial proporcionar capacitación y concienciación a los empleados y miembros de la organización sobre la importancia de la separación en la fuente y la gestión adecuada de los residuos.
+
+    //- ul.lista-ul.mb-4.ms-md-4
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Diagnóstico y clasificación de residuos:] antes de implementar un programa de separación en la fuente, es fundamental realizar un diagnóstico para determinar qué tipos de residuos se generan en cada área de la organización y en qué cantidades. Esto permitirá definir la estrategia adecuada para la gestión de residuos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Recipientes según el código de colores:] el uso de recipientes con colores específicos es una práctica común para facilitar la identificación y separación de los residuos. Los colores de los recipientes suelen seguir un estándar internacional que ayuda a clasificar los residuos de manera efectiva. Por ejemplo, el amarillo para residuos peligrosos, el verde para orgánicos, el azul para reciclables y el gris o negro para no reciclables.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Ubicación estratégica de recipientes:] es importante colocar los recipientes de manera estratégica en las instalaciones de la organización. Deben estar fácilmente accesibles y visibles para que los empleados y visitantes puedan desechar sus residuos adecuadamente.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Adaptación de recipientes:] en caso de que los recipientes existentes en la organización no cumplan con el código de colores, es posible adaptarlos temporalmente mediante pintura o cintas adhesivas visibles hasta que se realice la compra de los recipientes adecuados. Esta adaptación provisional es útil para garantizar la separación adecuada de los residuos mientras se implementan mejoras a largo plazo.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Educación y capacitación:] junto con la infraestructura adecuada, es esencial proporcionar capacitación y concienciación a los empleados y miembros de la organización sobre la importancia de la separación en la fuente y la gestión adecuada de los residuos.
 
     p.mb-4(data-aos="fade-down") La adecuada gestión de residuos a través de la separación en la fuente contribuye a la reducción de la cantidad de residuos enviados a vertederos y promueve la reutilización y el reciclaje de materiales, lo que tiene un impacto positivo en el medio ambiente y la sostenibilidad.
 
@@ -358,31 +473,63 @@
 
     p.mb-4(data-aos="fade-down") Frecuentemente se emplean bolsas, contenedores, canecas, cajas, entre otros. Sin embargo, según la norma GTC 24 - Gestión ambiental residuos sólidos, guía para la separación en la fuente del 2009, se debe tener en cuenta lo siguiente, para su selección:
 
-    ul.lista-ul.mb-4.ms-md-4
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | A nivel doméstico se espera que los recipientes sean de material impermeable, liviano y resistente, de fácil cargue, de tal forma que facilite su transporte y se reduzca el impacto sobre el ambiente y la salud humana.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | Los recipientes de carácter retornable deberían permitir su fácil limpieza.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | Los recipientes tanto desechables como retornables deberían proporcionar seguridad e higiene, permitir el aislamiento de los residuos con el entorno, tener una capacidad y volumen proporcional al peso, volumen y características de los residuos contenidos, ser de material resistente, preferiblemente reciclable, reutilizable o ambos y facilitar su cierre o amarre.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | En instalaciones multiusuario, comerciales e industriales pueden emplearse grandes contenedores de acopio.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | Los recipientes para residuos infecciosos deben ser del tipo tapa y pedal y se identifican sus canecas con el logo de infeccioso, si es químico algunas veces colocan el logo de una calavera y dicen el tipo de químico que se envasa.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | Los recipientes para residuos peligrosos obligatoriamente deben tener tapa, con buen ajuste, bordes redondeados y boca ancha para facilitar su vaciado. Construidos en forma tal que, estando cerrados o tapados, no permitan la entrada de agua, insectos o roedores, ni el escape de líquidos por sus paredes o por el fondo.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | Los recipientes para residuos cortopunzantes deben tener las siguientes características: rígidos, en polipropileno de alta densidad u otro polímero que no contenga P.V.C., resistentes a ruptura y perforación por elementos cortopunzantes, con tapa ajustable o de rosca, de boca angosta, de tal forma que al cerrarse quede completamente hermético. Rotulados de acuerdo con la clase de residuo.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | Los recipientes para lixiviados, deben ser resistentes, desechables, con paredes gruesas y su capacidad depende de la actividad que realice cada empresa, es recomendable que no sea mayo a 2 litros.
+    .bloque-texto-g.bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-19.png')})`}"
+      ) 
+      .bloque-texto-g__texto.p-5
+        p.mb-0 ● A nivel doméstico se espera que los recipientes sean de material impermeable, liviano y resistente, de fácil cargue, de tal forma que facilite su transporte y se reduzca el impacto sobre el ambiente y la salud humana.
+          br
+          br
+          | ● Los recipientes de carácter retornable deberían permitir su fácil limpieza.
+          br
+          br
+          | ● Los recipientes tanto desechables como retornables deberían proporcionar seguridad e higiene, permitir el aislamiento de los residuos con el entorno, tener una capacidad y volumen proporcional al peso, volumen y características de los residuos contenidos, ser de material resistente, preferiblemente reciclable, reutilizable o ambos y facilitar su cierre o amarre.
+    
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-20.png')})`}"
+      ) 
+      .bloque-texto-g__texto.p-5
+        p.mb-0 ● En instalaciones multiusuario, comerciales e industriales pueden emplearse grandes contenedores de acopio.
+          br
+          br
+          | ● Los recipientes para residuos infecciosos deben ser del tipo tapa y pedal y se identifican sus canecas con el logo de infeccioso, si es químico algunas veces colocan el logo de una calavera y dicen el tipo de químico que se envasa.
+          br
+          br
+          | ● Los recipientes para residuos peligrosos obligatoriamente deben tener tapa, con buen ajuste, bordes redondeados y boca ancha para facilitar su vaciado. Construidos en forma tal que, estando cerrados o tapados, no permitan la entrada de agua, insectos o roedores, ni el escape de líquidos por sus paredes o por el fondo.
+          br
+          br
+          | ● Los recipientes para residuos cortopunzantes deben tener las siguientes características: rígidos, en polipropileno de alta densidad u otro polímero que no contenga P.V.C., resistentes a ruptura y perforación por elementos cortopunzantes, con tapa ajustable o de rosca, de boca angosta, de tal forma que al cerrarse quede completamente hermético. Rotulados de acuerdo con la clase de residuo.
+          br
+          br
+          | ● Los recipientes para lixiviados, deben ser resistentes, desechables, con paredes gruesas y su capacidad depende de la actividad que realice cada empresa, es recomendable que no sea mayo a 2 litros.
+    
+    //- ul.lista-ul.mb-4.ms-md-4
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | A nivel doméstico se espera que los recipientes sean de material impermeable, liviano y resistente, de fácil cargue, de tal forma que facilite su transporte y se reduzca el impacto sobre el ambiente y la salud humana.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | Los recipientes de carácter retornable deberían permitir su fácil limpieza.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | Los recipientes tanto desechables como retornables deberían proporcionar seguridad e higiene, permitir el aislamiento de los residuos con el entorno, tener una capacidad y volumen proporcional al peso, volumen y características de los residuos contenidos, ser de material resistente, preferiblemente reciclable, reutilizable o ambos y facilitar su cierre o amarre.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | En instalaciones multiusuario, comerciales e industriales pueden emplearse grandes contenedores de acopio.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | Los recipientes para residuos infecciosos deben ser del tipo tapa y pedal y se identifican sus canecas con el logo de infeccioso, si es químico algunas veces colocan el logo de una calavera y dicen el tipo de químico que se envasa.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | Los recipientes para residuos peligrosos obligatoriamente deben tener tapa, con buen ajuste, bordes redondeados y boca ancha para facilitar su vaciado. Construidos en forma tal que, estando cerrados o tapados, no permitan la entrada de agua, insectos o roedores, ni el escape de líquidos por sus paredes o por el fondo.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | Los recipientes para residuos cortopunzantes deben tener las siguientes características: rígidos, en polipropileno de alta densidad u otro polímero que no contenga P.V.C., resistentes a ruptura y perforación por elementos cortopunzantes, con tapa ajustable o de rosca, de boca angosta, de tal forma que al cerrarse quede completamente hermético. Rotulados de acuerdo con la clase de residuo.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | Los recipientes para lixiviados, deben ser resistentes, desechables, con paredes gruesas y su capacidad depende de la actividad que realice cada empresa, es recomendable que no sea mayo a 2 litros.
    
     p.mb-4(data-aos="fade-down") #[b Rotulación]
 
@@ -395,8 +542,8 @@
           .row.justify-content-center.align-items-center.mb-1
             .col-12(data-aos="fade-right")
               .titulo-sexto.color-primario.mb-1
-                p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Rotulación de un bidón] 
-            .col-12.col-md-10.col-lg-8(data-aos="fade-right")
+                p.titulo.pb-0.mb-0.text-small #[b Figura 5.] #[i Rotulación de un bidón] 
+            .col-12(data-aos="fade-right")
               figure 
                 img(src='@/assets/curso/temas/tema1/tema1-f5.png', alt='En la figura 5 se muestra la rotulación de un recipiente para residuos peligrosos.')  
             .col-12(data-aos="fade-right")
@@ -408,7 +555,7 @@
           .row.justify-content-center.align-items-center.mb-3
             .col-12(data-aos="fade-right")
               .titulo-sexto.color-primario
-                p.titulo.pb-0.mb-0 #[b Figura 6.] #[i Pictograma según National Fire Protection Association (NFPA)] 
+                p.titulo.pb-0.mb-0.text-small #[b Figura 6.] #[i Pictograma según National Fire Protection Association (NFPA)] 
             .col-12(data-aos="fade-right")
               figure 
                 img(src='@/assets/curso/temas/tema1/tema1-f6.png', alt='En la figura 6 se muestra la etiqueta de modelo rombo 704 para residuos peligrosos.')  
@@ -434,45 +581,55 @@
 
     p.mb-5(data-aos="fade-down") En resumen, el rotulado de los recipientes para residuos en Colombia debe ser claro, informativo y seguir un código de colores estándar para facilitar la identificación y separación adecuada de los residuos. Esto contribuye a una gestión más efectiva de los residuos y a la promoción de prácticas sostenibles.
 
-    h5.mb-4(data-aos="fade-down") b) Puntos de generación de residuos
+    .cajon-b.color-acento-contenido.py-3
+      h5.mb-4(data-aos="fade-down") b) Puntos de generación de residuos
 
-    p.mb-4(data-aos="fade-down") Identificar los puntos de generación de residuos en una organización es un paso crucial para implementar un sistema de gestión de residuos efectivo y sostenible. Aquí tienes un proceso general para identificar estos puntos de generación de residuos:
+      p.mb-4(data-aos="fade-down") Identificar los puntos de generación de residuos en una organización es un paso crucial para implementar un sistema de gestión de residuos efectivo y sostenible. Aquí tienes un proceso general para identificar estos puntos de generación de residuos:
 
     .row.mb-4
       .col-md-8.col-lg-9.col-12
-        ul.lista-ul.mb-4.ms-md-4
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Recorrido de la organización:] comienza por realizar un recorrido exhaustivo de todas las áreas de la organización. Esto incluye las áreas de producción, oficinas administrativas, almacenes, comedores, baños y cualquier otro espacio donde se puedan generar residuos. 
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Registro de puntos de generación:] lleva un registro detallado de cada punto donde se generan residuos. Puedes utilizar un mapa o plano de la organización para marcar estos puntos.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Categorización de residuos:] en cada punto de generación, identifica y registra el tipo de residuo que se produce. Clasifica los residuos en categorías generales como orgánicos, reciclables, no reciclables, peligrosos, electrónicos, papel, cartón, plástico, vidrio, etc. 
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Cantidad de residuos:] además de identificar el tipo de residuo, registra la cantidad aproximada de residuos que se genera en cada punto. Esto es importante para dimensionar adecuadamente los contenedores y planificar la gestión de residuos.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Análisis detallado:] realiza un análisis más detallado de los procesos de producción y actividades en cada área para identificar las fuentes específicas de generación de residuos. Pregúntate qué actividades o productos generan residuos y en qué cantidad . 
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Eco balance de proceso:] un eco balance de proceso es una herramienta que te ayudará a identificar las fuentes y tipos de residuos generados en cada etapa de producción o proceso. Analiza cada paso en el ciclo de vida de los productos o servicios de la organización para determinar los residuos asociados.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Participación del personal:] involucra al personal de la organización en este proceso. Pueden aportar información valiosa sobre los puntos de generación de residuos que podrían pasar desapercibidos.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Documentación y registro:] mantén un registro documentado de todos los puntos de generación de residuos, el tipo de residuo y la cantidad. Esta información será esencial para la planificación de la gestión de residuos.
+        ul.lista-ul.mb-4
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Recorrido de la organización:] comienza por realizar un recorrido exhaustivo de todas las áreas de la organización. Esto incluye las áreas de producción, oficinas administrativas, almacenes, comedores, baños y cualquier otro espacio donde se puedan generar residuos. 
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Registro de puntos de generación:] lleva un registro detallado de cada punto donde se generan residuos. Puedes utilizar un mapa o plano de la organización para marcar estos puntos.
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Categorización de residuos:] en cada punto de generación, identifica y registra el tipo de residuo que se produce. Clasifica los residuos en categorías generales como orgánicos, reciclables, no reciclables, peligrosos, electrónicos, papel, cartón, plástico, vidrio, etc. 
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Cantidad de residuos:] además de identificar el tipo de residuo, registra la cantidad aproximada de residuos que se genera en cada punto. Esto es importante para dimensionar adecuadamente los contenedores y planificar la gestión de residuos.
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Análisis detallado:] realiza un análisis más detallado de los procesos de producción y actividades en cada área para identificar las fuentes específicas de generación de residuos. Pregúntate qué actividades o productos generan residuos y en qué cantidad . 
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Eco balance de proceso:] un eco balance de proceso es una herramienta que te ayudará a identificar las fuentes y tipos de residuos generados en cada etapa de producción o proceso. Analiza cada paso en el ciclo de vida de los productos o servicios de la organización para determinar los residuos asociados.
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Participación del personal:] involucra al personal de la organización en este proceso. Pueden aportar información valiosa sobre los puntos de generación de residuos que podrían pasar desapercibidos.
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Documentación y registro:] mantén un registro documentado de todos los puntos de generación de residuos, el tipo de residuo y la cantidad. Esta información será esencial para la planificación de la gestión de residuos.
       .col-md-4.col-10.col-lg-3.px-md-3(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/tema1-5.svg')  
             
     p.mb-4(data-aos="fade-down") Una vez que hayas identificado y documentado los puntos de generación de residuos, podrás diseñar un plan de gestión de residuos que incluya la colocación estratégica de contenedores, la implementación de prácticas de separación en la fuente y la promoción de la reducción, reutilización y reciclaje de residuos. Este enfoque ayudará a tu organización a minimizar su impacto ambiental y cumplir con las regulaciones ambientales aplicables.
 
-    h5.mb-4(data-aos="fade-down") c)	Ecomapa
+    .cajon-b.color-acento-contenido.py-3
+      h5.mb-4(data-aos="fade-down") c) Ecomapa
 
-    p.mb-4(data-aos="fade-down") Este enfoque permite a las organizaciones identificar de manera clara y visual las fuentes de generación de residuos, lo que es esencial para desarrollar estrategias efectivas de gestión de residuos, como la implementación de contenedores adecuados, la planificación de rutas de recolección y la promoción de prácticas de separación en la fuente. También puede ayudar en la identificación de áreas que pueden requerir una mayor atención en términos de reducción de residuos y sostenibilidad ambiental.
+      p.mb-4(data-aos="fade-down") Este enfoque permite a las organizaciones identificar de manera clara y visual las fuentes de generación de residuos, lo que es esencial para desarrollar estrategias efectivas de gestión de residuos, como la implementación de contenedores adecuados, la planificación de rutas de recolección y la promoción de prácticas de separación en la fuente. También puede ayudar en la identificación de áreas que pueden requerir una mayor atención en términos de reducción de residuos y sostenibilidad ambiental.
     p.mb-4(data-aos="fade-down") En resumen, en este contexto específico, un "ecomapa" se utiliza para representar aspectos ambientales relacionados con la generación de residuos en una organización, utilizando pictogramas u otros elementos gráficos para facilitar la identificación y el análisis de estos aspectos en un plano o diagrama.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -625,101 +782,111 @@
     
 
     .row.justify-content-center.align-items-center.mb-4
+      .col-md-8.col-lg-9.col-12
+        ul.lista-ul.mb-4
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Ubicación adecuada:] los sitios de almacenamiento deben estar ubicados lejos de fuentes de agua potable, áreas residenciales y lugares sensibles desde el punto de vista ambiental y de la salud pública. También deben tener en cuenta la geología y la hidrogeología local para evitar la contaminación del suelo y el agua subterránea.
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Impermeabilización:] el área de almacenamiento debe estar impermeabilizada para evitar la filtración de líquidos lixiviados hacia el suelo y las aguas subterráneas. Esto puede lograrse mediante la instalación de revestimientos adecuados, como geomembranas, y la construcción de sistemas de drenaje para recolectar y tratar los lixiviados.
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Control de olores y polvo:] deben implementarse medidas para controlar los olores y el polvo que puedan generar los residuos almacenados, lo que puede incluir la cobertura de los residuos, sistemas de ventilación, o técnicas específicas según el tipo de residuo.
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Seguridad:] los sitios de almacenamiento deben contar con medidas de seguridad adecuadas, como cercas, sistemas de control de acceso y señalización, para prevenir el acceso no autorizado y reducir los riesgos asociados con los residuos peligrosos.
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Monitoreo ambiental:] deben establecerse programas de monitoreo ambiental para evaluar la calidad del aire, el suelo y el agua en y alrededor del sitio de almacenamiento. Esto permite detectar posibles fugas o contaminación y tomar medidas correctivas oportunas.
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Manejo de residuos líquidos:] si se almacenan residuos líquidos peligrosos, es necesario contar con sistemas de recolección y tratamiento de lixiviados para evitar la contaminación ambiental.
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Manejo de residuos sólidos:] los residuos sólidos peligrosos deben ser almacenados en contenedores adecuados y etiquetados correctamente. Se deben seguir pautas específicas para el manejo y almacenamiento de cada tipo de residuo.
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Plan de emergencia:] debe existir un plan de emergencia que incluya procedimientos para responder a incidentes o fugas de residuos peligrosos, así como la comunicación con las autoridades y la comunidad.
+          li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
+            .p-3
+              span.text-bold ● 
+              | #[b Documentación y registros:] debe llevarse un registro detallado de los tipos y cantidades de residuos almacenados, así como de todas las operaciones y medidas de control realizadas en el sitio.
+          li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
+            .p-3
+              span.text-bold ● 
+              | #[b Licencias y permisos:] los sitios de almacenamiento de residuos peligrosos deben obtener todas las licencias y permisos requeridos por las autoridades ambientales locales y cumplir con las regulaciones aplicables.
       .col-md-4.col-10.col-lg-3(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/tema1-18.svg')  
-      .col-md-8.col-lg-9.col-12
-        ul.lista-ul.mb-4.ms-md-4
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Ubicación adecuada:] los sitios de almacenamiento deben estar ubicados lejos de fuentes de agua potable, áreas residenciales y lugares sensibles desde el punto de vista ambiental y de la salud pública. También deben tener en cuenta la geología y la hidrogeología local para evitar la contaminación del suelo y el agua subterránea.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Impermeabilización:] el área de almacenamiento debe estar impermeabilizada para evitar la filtración de líquidos lixiviados hacia el suelo y las aguas subterráneas. Esto puede lograrse mediante la instalación de revestimientos adecuados, como geomembranas, y la construcción de sistemas de drenaje para recolectar y tratar los lixiviados.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Control de olores y polvo:] deben implementarse medidas para controlar los olores y el polvo que puedan generar los residuos almacenados, lo que puede incluir la cobertura de los residuos, sistemas de ventilación, o técnicas específicas según el tipo de residuo.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Seguridad:] los sitios de almacenamiento deben contar con medidas de seguridad adecuadas, como cercas, sistemas de control de acceso y señalización, para prevenir el acceso no autorizado y reducir los riesgos asociados con los residuos peligrosos.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Monitoreo ambiental:] deben establecerse programas de monitoreo ambiental para evaluar la calidad del aire, el suelo y el agua en y alrededor del sitio de almacenamiento. Esto permite detectar posibles fugas o contaminación y tomar medidas correctivas oportunas.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Manejo de residuos líquidos:] si se almacenan residuos líquidos peligrosos, es necesario contar con sistemas de recolección y tratamiento de lixiviados para evitar la contaminación ambiental.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Manejo de residuos sólidos:] los residuos sólidos peligrosos deben ser almacenados en contenedores adecuados y etiquetados correctamente. Se deben seguir pautas específicas para el manejo y almacenamiento de cada tipo de residuo.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Plan de emergencia:] debe existir un plan de emergencia que incluya procedimientos para responder a incidentes o fugas de residuos peligrosos, así como la comunicación con las autoridades y la comunidad.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Documentación y registros:] debe llevarse un registro detallado de los tipos y cantidades de residuos almacenados, así como de todas las operaciones y medidas de control realizadas en el sitio.
-          li(data-aos="fade-down")
-            span.text-bold ●
-            | #[b Licencias y permisos:] los sitios de almacenamiento de residuos peligrosos deben obtener todas las licencias y permisos requeridos por las autoridades ambientales locales y cumplir con las regulaciones aplicables.
 
     p.mb-4(data-aos="fade-down") Se recomienda establecer la existencia y ubicación de los sitios de almacenamiento dentro de la organización, evaluando las características que debe cumplir como, por medio de esta lista chequeo:
 
     div.ms-md-3.mb-5
-      ol.lista-ol(data-aos="fade-down")
+      ol.lista-ol--separador(data-aos="fade-down")
         li 
-          span.text-bold a)
+          span.text-bold a) 
           | ¿El lugar de almacenamiento está alejado de zonas densamente pobladas, de fuentes de captación de agua potable, de áreas inundables y de posibles fuentes externas de peligro?
         li 
-          span.text-bold b)
+          span.text-bold b) 
           | ¿El lugar está ubicado en un sitio de fácil acceso para el transporte de los residuos y para situaciones de emergencia?
         li 
-          span.text-bold c)
+          span.text-bold c) 
           | ¿Las paredes externas y las divisiones internas son de material sólido que resista el fuego durante 3 horas?
         li 
-          span.text-bold d)
+          span.text-bold d) 
           | ¿Las puertas en las paredes interiores están diseñadas para confinar el fuego con una resistencia de 3 horas?
         li 
-          span.text-bold e)
+          span.text-bold e) 
           | ¿Existen en las instalaciones de la organización salidas de emergencia distintas a las puertas principales de ingreso de las mercancías?
         li 
-          span.text-bold f)
+          span.text-bold f) 
           | ¿Las salidas de emergencia están señalizadas?
         li 
-          span.text-bold g)
+          span.text-bold g) 
           | ¿El piso es antideslizante, impermeable, libre de grietas y resistente a las sustancias y/o residuos que se almacenen?
         li 
-          span.text-bold h)
+          span.text-bold h) 
           | ¿Los drenajes al interior del lugar están conectados a pozos colectores para una posterior disposición del agua residual?
         li 
-          span.text-bold i)
+          span.text-bold i) 
           | ¿Los drenajes están sellados y protegidos de daño por el paso de vehículos y el movimiento de estibas?
         li 
-          span.text-bold j)
+          span.text-bold j) 
           | ¿Todas las sustancias peligrosas almacenadas están ubicadas en un sitio confinado mediante paredes, diques o bordillos perimetrales?
         li 
-          span.text-bold k)
+          span.text-bold k) 
           | ¿El techo está diseñado de tal forma que no admita el ingreso de agua lluvia a las instalaciones, pero que permita la salida del humo y el calor en caso de un incendio?
         li 
-          span.text-bold l)
-          | ¿El lugar cuenta con ventilación adecuada (ya sea natural o forzada)?
+          span.text-bold l) 
+          | ¿El lugar cuenta con ventilación adecuada (ya sea natural o forzada) ?
         li 
-          span.text-bold m)
+          span.text-bold m) 
           | ¿El lugar opera con iluminación adecuada?
         li 
-          span.text-bold n)
+          span.text-bold n) 
           | ¿Si se almacenan materiales inflamables se cuenta con equipos de protección contra relámpagos?
         li 
-          span.text-bold o)
+          span.text-bold o) 
           | ¿Si se almacenan sustancias en el exterior se tienen condiciones satisfactorias respecto a seguridad, protección de la lluvia, acceso para emergencias y sistema de contención de derrames?
         li 
-          span.text-bold p)
+          span.text-bold p) 
           | ¿Están señalizadas todas las áreas de almacenamiento y estanterías con la clase de riesgo correspondiente a la sustancia química peligrosa almacenada?
         li 
-          span.text-bold q)
+          span.text-bold q) 
           | ¿Están señalizados todos los sitios de almacenamiento con las correspondientes señales de advertencia, obligación, prohibición e información?
         li 
-          span.text-bold r)
+          span.text-bold r) 
           | ¿Cuenta el lugar con dispositivos de detección de fuego y sistemas de respuesta?
         li 
-          span.text-bold s)
+          span.text-bold s) 
           | ¿Tiene el lugar las Hojas de Seguridad de todas las sustancias almacenadas, en un sitio visible y señalizado?
 
     p.mb-4(data-aos="fade-down") Es importante destacar que la gestión de residuos es un tema altamente regulado, y las organizaciones que manejan estos residuos deben cumplir estrictamente con las normativas locales y nacionales. Además, se recomienda consultar a expertos en gestión de residuos y a las autoridades ambientales locales para garantizar el cumplimiento de todas las regulaciones y requisitos específicos en la ubicación y el tipo de residuos que se manejan.
