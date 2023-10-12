@@ -67,43 +67,43 @@
       ul.lista-ul.mb-4
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Residuo sólido o desecho:] es cualquier objeto, material, sustancia o elemento sólido resultante del consumo o uso de un bien en actividades domésticas, industriales, comerciales, institucionales, de servicios, que el generador abandona, rechaza o entrega y que es susceptible de aprovechamiento o transformación en un nuevo bien, con valor económico o de disposición final (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p. 4).
+          | #[b Residuo sólido o desecho:] es cualquier objeto, material, sustancia o elemento sólido resultante del consumo o uso de un bien en actividades domésticas, industriales, comerciales, institucionales, de servicios, que el generador abandona, rechaza o entrega y que es susceptible de aprovechamiento o transformación en un nuevo bien, con valor económico o de disposición final (Ministerio de Comercio, Industria y Turismo, 2002, p. 5).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Residuo sólido aprovechable:] es cualquier material, objeto, sustancia o elemento sólido que no tiene valor de uso directo o indirecto para quien lo genere, pero que es susceptible de incorporación a un proceso productivo (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p. 4).
+          | #[b Residuo sólido aprovechable:] es cualquier material, objeto, sustancia o elemento sólido que no tiene valor de uso directo o indirecto para quien lo genere, pero que es susceptible de incorporación a un proceso productivo (Ministerio de Comercio, Industria y Turismo, 2002, p. 5).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Residuo sólido no aprovechable:] es todo material o sustancia sólida o semisólida de origen orgánico e inorgánico, putrescible o no, proveniente de actividades domésticas, industriales, comerciales, institucionales, de servicios, que no ofrece ninguna posibilidad de aprovechamiento, reutilización o reincorporación en un proceso productivo. Son residuos sólidos que no tienen ningún valor comercial, requieren tratamiento y disposición final y por lo tanto generan costos de disposición (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p. 4).
+          | #[b Residuo sólido no aprovechable:] es todo material o sustancia sólida o semisólida de origen orgánico e inorgánico, putrescible o no, proveniente de actividades domésticas, industriales, comerciales, institucionales, de servicios, que no ofrece ninguna posibilidad de aprovechamiento, reutilización o reincorporación en un proceso productivo. Son residuos sólidos que no tienen ningún valor comercial, requieren tratamiento y disposición final y por lo tanto generan costos de disposición (Ministerio de Comercio, Industria y Turismo, 2002, p. 6).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Residuo peligroso:] es aquel que, por sus características infecciosas, tóxicas, explosivas, corrosivas, inflamables, volátiles, combustibles, radiactivas o reactivas puedan causar riesgo a la salud humana o deteriorar la calidad ambiental hasta niveles que causen riesgo a la salud humana. También son residuos peligrosos aquellos que sin serlo en su forma original se transforman por procesos naturales en residuos peligrosos (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p. 4).
+          | #[b Residuo peligroso:] es aquel que, por sus características infecciosas, tóxicas, explosivas, corrosivas, inflamables, volátiles, combustibles, radiactivas o reactivas puedan causar riesgo a la salud humana o deteriorar la calidad ambiental hasta niveles que causen riesgo a la salud humana. También son residuos peligrosos aquellos que sin serlo en su forma original se transforman por procesos naturales en residuos peligrosos (Ministerio de Comercio, Industria y Turismo, 2002, p. 5).
         li(data-aos="fade-down")
           span.text-bold ● 
-          | #[b Residuos anatomopatológicos:] son aquellos residuos como partes del cuerpo, muestras de órganos, tejidos o líquidos humanos, generados con ocasión de la realización de necropsias, procedimientos médicos, remoción quirúrgica, análisis de patología, toma de biopsias o como resultado de la obtención de muestras biológicas para análisis químico, microbiológico, citológico o histológico (Ministerio de salud y protección social, 2016).
+          | #[b Residuos anatomopatológicos:] son aquellos residuos como partes del cuerpo, muestras de órganos, tejidos o líquidos humanos, generados con ocasión de la realización de necropsias, procedimientos médicos, remoción quirúrgica, análisis de patología, toma de biopsias o como resultado de la obtención de muestras biológicas para análisis químico, microbiológico, citológico o histológico (Función Pública, 2014, Decreto 351).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Residuos no peligrosos:] son aquellos producidos por el generador en desarrollo de su actividad, que no presentan ninguna de las características de peligrosidad (Ministerio de salud y protección social, 2016).
+          | #[b Residuos no peligrosos:] son aquellos producidos por el generador en desarrollo de su actividad, que no presentan ninguna de las características de peligrosidad (Función Pública, 2014, Decreto 351).
         li(data-aos="fade-down")
           span.text-bold ● 
           | #[b Residuos especiales:] son aquellos residuos que por su naturaleza, composición, tamaño, volumen y peso no puedan ser recolectados, manejados, tratados o dispuestos normalmente por la persona prestadora del servicio. Incluye los residuos producto de las actividades de corte de césped y poda de árboles ubicados en las vías y áreas públicas; aquellos provenientes del barrido y limpieza de vías y áreas públicas, y los residuos provenientes de actividades de construcción y demás obras civiles. (Área metropolitana del Valle de Aburra, 2016, p.8).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Lixiviado:] es el líquido residual generado por la descomposición biológica de la parte orgánica o biodegradable de los residuos sólidos bajo condiciones aeróbicas o anaeróbicas y/o como resultado de la percolación de agua a través de los residuos en proceso de degradación (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p.4).
+          | #[b Lixiviado:] es el líquido residual generado por la descomposición biológica de la parte orgánica o biodegradable de los residuos sólidos bajo condiciones aeróbicas o anaeróbicas y/o como resultado de la percolación de agua a través de los residuos en proceso de degradación (Ministerio de Comercio, Industria y Turismo, 2002, p. 4).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Reciclaje:] es el proceso mediante el cual se aprovechan y transforman los residuos sólidos recuperados y se devuelve a los materiales su potencialidad de reincorporación como materia prima para la fabricación de nuevos productos. El reciclaje puede constar de varias etapas: procesos de tecnologías limpias (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p.4).
+          | #[b Reciclaje:] es el proceso mediante el cual se aprovechan y transforman los residuos sólidos recuperados y se devuelve a los materiales su potencialidad de reincorporación como materia prima para la fabricación de nuevos productos. El reciclaje puede constar de varias etapas: procesos de tecnologías limpias (Ministerio de Comercio, Industria y Turismo, 2002, p. 5).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Reutilización:] es la prolongación y adecuación de la vida útil de los residuos sólidos recuperados y que mediante procesos, operaciones o técnicas devuelven a los materiales su posibilidad de utilización en su función original o en alguna relacionada, sin que para ello requieran procesos adicionales de transformación (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p.4).
+          | #[b Reutilización:] es la prolongación y adecuación de la vida útil de los residuos sólidos recuperados y que mediante procesos, operaciones o técnicas devuelven a los materiales su posibilidad de utilización en su función original o en alguna relacionada, sin que para ello requieran procesos adicionales de transformación (Ministerio de Comercio, Industria y Turismo, 2002, p. 6).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Disposición final:] es el proceso de aislar y confinar los residuos o desechos peligrosos, en especial los no aprovechables, en lugares especialmente seleccionados, diseñados y debidamente autorizados, para evitar la contaminación y los daños o riesgos a la salud humana y al ambiente (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2015).
+          | #[b Disposición final:] es el proceso de aislar y confinar los residuos o desechos peligrosos, en especial los no aprovechables, en lugares especialmente seleccionados, diseñados y debidamente autorizados, para evitar la contaminación y los daños o riesgos a la salud humana y al ambiente (Ministerio de Comercio, Industria y Turismo, 2002, p. 3).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Separación en la fuente:] es la clasificación de los residuos sólidos en el sitio donde se generan para su posterior recuperación (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p.4).
+          | #[b Separación en la fuente:] es la clasificación de los residuos sólidos en el sitio donde se generan para su posterior recuperación (Ministerio de Comercio, Industria y Turismo, 2002, p. 6).
         li(data-aos="fade-down")
           span.text-bold ●
-          | #[b Generador o productor:] persona que produce residuos sólidos y es usuario del servicio (Ministerio de Ambiente Vivienda y Desarrollo Territorial, 2002, p.3).
+          | #[b Generador o productor:] persona que produce residuos sólidos y es usuario del servicio (Ministerio de Comercio, Industria y Turismo, 2002, p. 3).
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -407,13 +407,30 @@
 
     p.mb-4(data-aos="fade-down") #[b Recipientes para residuos no peligrosos:] los residuos no peligrosos son aquellos que no presentan riesgos significativos para la salud humana ni el medio ambiente. La identificación de los recipientes para residuos no peligrosos puede variar, pero generalmente se tienen en cuenta las siguientes pautas:
 
-    ul.lista-ul.mb-4.ms-md-4
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Color del contenedor:] los contenedores para residuos no peligrosos pueden tener colores más variados y suelen ser de color gris o negro. Sin embargo, el color puede variar según las políticas locales de gestión de residuos.
-      li(data-aos="fade-down")
-        span.text-bold ●
-        | #[b Etiquetas o identificación:] aunque no se requieren etiquetas específicas para residuos no peligrosos, es una buena práctica etiquetar los contenedores de manera clara para identificar el tipo de residuo que se encuentra en su interior. Esto facilita la gestión adecuada de los residuos y la separación en la fuente.
+    .row.justify-content-center
+      .col-12.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.custom-c.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-1.svg' alt='')
+          .tarjeta.tarjeta--custom--borde
+            .p-4
+              p.mb-0 #[b Color del contenedor:] los contenedores para residuos no peligrosos pueden tener colores más variados y suelen ser de color gris o negro. Sin embargo, el color puede variar según las políticas locales de gestión de residuos.
+      
+      .col-12.d-flex.align-items-stretch(data-aos="fade-down")
+        .tarjeta-avatar-b.custom-c.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/ico-2.svg' alt='')
+          .tarjeta.tarjeta--custom--borde
+            .p-4
+              p.mb-0 #[b Etiquetas o identificación:] aunque no se requieren etiquetas específicas para residuos no peligrosos, es una buena práctica etiquetar los contenedores de manera clara para identificar el tipo de residuo que se encuentra en su interior. Esto facilita la gestión adecuada de los residuos y la separación en la fuente.
+
+    //- ul.lista-ul.mb-4.ms-md-4
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Color del contenedor:] los contenedores para residuos no peligrosos pueden tener colores más variados y suelen ser de color gris o negro. Sin embargo, el color puede variar según las políticas locales de gestión de residuos.
+    //-   li(data-aos="fade-down")
+    //-     span.text-bold ●
+    //-     | #[b Etiquetas o identificación:] aunque no se requieren etiquetas específicas para residuos no peligrosos, es una buena práctica etiquetar los contenedores de manera clara para identificar el tipo de residuo que se encuentra en su interior. Esto facilita la gestión adecuada de los residuos y la separación en la fuente.
 
     p.mb-4(data-aos="fade-down") Es importante tener en cuenta que las regulaciones y prácticas pueden variar según la jurisdicción y la entidad encargada de la gestión de residuos en Colombia. Por lo tanto, es fundamental consultar las regulaciones locales y seguir las pautas proporcionadas por las autoridades ambientales para la identificación y manejo adecuado de residuos peligrosos y no peligrosos en tu área específica.
     p.mb-4(data-aos="fade-down") La separación en la fuente es un elemento clave en la adecuada gestión de residuos en Colombia y en muchos otros lugares del mundo. Se trata de la separación inicial y selectiva de los residuos en su lugar de origen, antes de que sean recolectados de manera conjunta. Aquí hay algunos puntos clave relacionados con la separación en la fuente y la identificación de recipientes según el código de colores en Colombia:
@@ -608,7 +625,7 @@
           li.mb-0(data-aos="fade-down" style="background-color:#F0CECE")
             .p-3
               span.text-bold ● 
-              | #[b Análisis detallado:] realiza un análisis más detallado de los procesos de producción y actividades en cada área para identificar las fuentes específicas de generación de residuos. Pregúntate qué actividades o productos generan residuos y en qué cantidad . 
+              | #[b Análisis detallado:] realiza un análisis más detallado de los procesos de producción y actividades en cada área para identificar las fuentes específicas de generación de residuos. Pregúntate qué actividades o productos generan residuos y en qué cantidad. 
           li.mb-0(data-aos="fade-down" style="background-color:#CDF6F6")
             .p-3
               span.text-bold ● 
@@ -891,7 +908,7 @@
 
     p.mb-4(data-aos="fade-down") Es importante destacar que la gestión de residuos es un tema altamente regulado, y las organizaciones que manejan estos residuos deben cumplir estrictamente con las normativas locales y nacionales. Además, se recomienda consultar a expertos en gestión de residuos y a las autoridades ambientales locales para garantizar el cumplimiento de todas las regulaciones y requisitos específicos en la ubicación y el tipo de residuos que se manejan.
 
-    p.mb-4(data-aos="fade-down") Los almacenamiento de residuos la mayoría de las veces se divide en bodegas una bodega de almacenamiento para residuos no peligrosos ordinarios, otra bodega de almacenamiento de residuos reciclables y otra bodega de residuos peligrosos, o se comparte la bodega colocando divisiones, para el caso de residuos peligrosos se debe tener en cuenta la matriz de compatibilidad de los residuos.
+    p.mb-4(data-aos="fade-down") Los almacenamientos de residuos la mayoría de las veces se divide en bodegas una bodega de almacenamiento para residuos no peligrosos ordinarios, otra bodega de almacenamiento de residuos reciclables y otra bodega de residuos peligrosos, o se comparte la bodega colocando divisiones, para el caso de residuos peligrosos se debe tener en cuenta la matriz de compatibilidad de los residuos.
 
 
     Separador
@@ -1044,7 +1061,7 @@
             span.text-bold ●
             | Evaluación de si la organización cumple con todas las regulaciones aplicables.
       .col-12.p-3(style="background-color:#FFE8CE")(data-aos="fade-down")
-        p.mb-0 #[b i)	Evaluación ambienta] 
+        p.mb-0 #[b i)	Evaluación ambiental] 
         ul.lista-ul.mb-0
           li.mb-0
             span.text-bold ●

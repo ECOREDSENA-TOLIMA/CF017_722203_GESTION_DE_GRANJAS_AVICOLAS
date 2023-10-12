@@ -303,7 +303,7 @@ export default {
     {
       termino: 'Cama',
       significado:
-        'material que se utiliza en el suelo para la crianza de pollos u otras aves, con capacidad de aislar, absorber humedad y proporcionar confort a los animales (<em>Guía de Buenas Prácticas Ambientales para el sector avícola en Guatemala</em>, 2008).',
+        'material que se utiliza en el suelo para la crianza de pollos u otras aves, con capacidad de aislar, absorber humedad y proporcionar confort a los animales (Fenavi, Guía rápida. Alternativas para el manejo de residuos orgánicos de la producción avícola en granjas, 2018).',
     },
     {
       termino: 'Compostaje',
@@ -384,6 +384,22 @@ export default {
     },
     {
       referencia:
+        'Conesa Fernandez - Vitora, V., Conesa Ripoll, V., Conesa Ripoll, L. A., & Estevan Bolea, M. T. (2010). Guía metodológica para la evaluación del impacto ambiental (4a. ed.). Madrid: Mundi-Prensa. ',
+    },
+    {
+      referencia:
+        'Fenavi. (2018). Guía rápida. Alternativas para el manejo de residuos orgánicos de la producción avícola en granjas. Fenavi. ',
+      link:
+        'https://fenavi.org/wp-content/uploads/2018/05/Guia_Rapida_Ambiental_Residuos_Organicos_-Granjas.pdf',
+    },
+    {
+      referencia:
+        'Función Pública. (s/f). Decreto 351 de 2014. Recuperado el 8 de octubre de 2023, de ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56755',
+    },
+    {
+      referencia:
         'Fogacoop. (2022). <em>Planes de mejoramiento.</em> Fogacoop. ',
       link:
         'https://www.fogacoop.gov.co/nuestra-gestion/planes/planes-de-mejoramiento',
@@ -399,6 +415,12 @@ export default {
         'Murcia, F. (s. f). <em>Verificación microbiológica de programas de limpieza y desinfección.</em> Invima. ',
       link:
         'https://www.invima.gov.co/documents/20143/354605/6.+VERIFICACI%C3%93N+MICROBIOLOGICA+DE+POES+Y+VIDA+UTIL.pdf/bc7e3388-1822-ea15-f945-1b83e48df626',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2002). Decreto 1713 de 2002. Recuperado el 8 de octubre de 2023, de ',
+      link:
+        'https://www.mincit.gov.co/ministerio/normograma-sig/procesos-de-apoyo/gestion-de-recursos-fisicos/decretos/decreto-1713-de-2002.aspx',
     },
     {
       referencia:
@@ -422,6 +444,12 @@ export default {
         'UPB, Corantioquia, Área Metropolitana Valle de Aburrá. (2017). <em>Gestión ambiental de olores.</em> Metropol. ',
       link:
         'https://www.metropol.gov.co/ambiental/calidad-del-aire/Biblioteca-aire/Olores/Cartilla-avicola.pdf',
+    },
+    {
+      referencia:
+        'Universidad Pontificia Bolivariana y Área Metropolitana Valle de Aburrá. (2011). Guía para la gestión de recursos peligrosos. Área Metropolitana. Recuperado de ',
+      link:
+        'https://www.metropol.gov.co/ambiental/residuos-solidos/GestionRespel/GUIA_RESPEL.pdf',
     },
   ],
   creditos: [

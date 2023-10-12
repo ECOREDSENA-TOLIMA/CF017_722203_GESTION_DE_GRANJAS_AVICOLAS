@@ -60,21 +60,21 @@
                 td.text-center 
                 td.text-center 
               tr
-                th.cabecera-b ...
+                th.cabecera-b 
                 td.text-center 3
                 td.text-center 5
                 td.text-center 
                 td.text-center 
                 td.text-center 
               tr
-                th.cabecera-b ...
+                th.cabecera-b 
                 td.text-center 3
                 td.text-center 5
                 td.text-center 
                 td.text-center 
                 td.text-center 
               tr
-                th.cabecera-b ...
+                th.cabecera-b 
                 td.text-center 3
                 td.text-center 5
                 td.text-center 
@@ -111,7 +111,7 @@
                 th Unidad
             tbody
               tr
-                th.text-center 6
+                th.text-center 1
                 td.text-center Piso
                 td.text-center.bg-c-a-b 2000
                 td.text-center.bg-c-a-c <10
@@ -119,7 +119,7 @@
                 td.text-center.bg-c-a-c 30
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 7
+                th.text-center 2
                 td.text-center Pared
                 td.text-center.bg-c-a-b 5400
                 td.text-center.bg-c-a-c <10
@@ -127,7 +127,7 @@
                 td.text-center.bg-c-a-c <10
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 8
+                th.text-center 3
                 td.text-center Cortina
                 td.text-center.bg-c-a-b 3600
                 td.text-center.bg-c-a-c <10
@@ -135,7 +135,7 @@
                 td.text-center.bg-c-a-c <11
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 9
+                th.text-center 4
                 td.text-center Comedero
                 td.text-center.bg-c-a-b 1300
                 td.text-center.bg-c-a-c <10
@@ -143,7 +143,7 @@
                 td.text-center.bg-c-a-c <12
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 10
+                th.text-center 5
                 td.text-center Bebedero
                 td.text-center.bg-c-a-c 10
                 td.text-center.bg-c-a-c <10
@@ -170,7 +170,7 @@
                 th Unidad
             tbody
               tr
-                th.text-center 12
+                th.text-center 1
                 td.text-center Piso
                 td.text-center.bg-c-a-b 27,000,000
                 td.text-center.bg-c-a-c 30
@@ -178,7 +178,7 @@
                 td.text-center.cabecera-b 8200
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 13
+                th.text-center 2
                 td.text-center Pared
                 td.text-center.bg-c-a-b 160,000,000
                 td.text-center.bg-c-a-c <10
@@ -186,7 +186,7 @@
                 td.text-center.cabecera-b 620
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 14
+                th.text-center 3
                 td.text-center Comedero
                 td.text-center.bg-c-s 2,2
                 td.text-center.bg-c-a-c <11
@@ -194,7 +194,7 @@
                 td.text-center.bg-c-a-c <10
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 15
+                th.text-center 4
                 td.text-center Bebedero
                 td.text-center.bg-c-a-b 370,000,000
                 td.text-center.bg-c-a-c <12
@@ -202,7 +202,7 @@
                 td.text-center.cabecera-b 150
                 td.text-center UFC/plg#[sup 2]
               tr
-                th.text-center 16
+                th.text-center 5
                 td.text-center Mini tolva
                 td.text-center.bg-c-a-b 32
                 td.text-center.bg-c-a-c <10

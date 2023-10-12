@@ -11,7 +11,7 @@
 
     .row.mb-4(data-aos="fade-down")
       .col-12
-        p En este componente se abordarán los conceptos para el uso eficiente del agua y la reducción de olores relacionados con la producción avícola, con el fin de aplicar las buenas prácticas de la industria. Como punto de partida, se invita a ver el siguiente video introductorio:
+        p En este componente se abordarán los conceptos para el uso eficiente del agua y la reducción de olores relacionados con la producción avícola, con el fin de aplicar las buenas prácticas de la industria. Como punto de partida, se presenta el siguiente video introductorio:
 
     figure
       .video
