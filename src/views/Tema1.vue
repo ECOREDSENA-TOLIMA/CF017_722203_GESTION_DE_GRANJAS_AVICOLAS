@@ -186,16 +186,16 @@
     ul.lista-ul.mb-4
       li(data-aos="fade-down")
         span.text-bold ●
-        | #[b Biodegradables:] son aquellos restos químicos o naturales que se descomponen fácilmente en el ambiente. En estos restos se encuentran los vegetales, residuos alimenticios no infectados, papel higiénico, papeles no aptos para reciclaje, jabones y detergentes biodegradables, madera y otros residuos que puedan ser transformados fácilmente en materia orgánica (Ministerio del Medio Ambiente, 2002, p.18).
+        | #[b Biodegradables:] son aquellos restos químicos o naturales que se descomponen fácilmente en el ambiente. En estos restos se encuentran los vegetales, residuos alimenticios no infectados, papel higiénico, papeles no aptos para reciclaje, jabones y detergentes biodegradables, madera y otros residuos que puedan ser transformados fácilmente en materia orgánica (Ministerio del Medio Ambiente, 2002, p.13).
       li(data-aos="fade-down")
         span.text-bold ●
-        | #[b Reciclables:] son aquellos que no se descomponen fácilmente y pueden volver a ser utilizados en procesos productivos como materia prima. Entre estos residuos se encuentran: algunos papeles y plásticos, chatarra, vidrio, telas, radiografías, partes y equipos obsoletos o en desuso, entre otros (Ministerio del Medio Ambiente, 2002, p.19).
+        | #[b Reciclables:] son aquellos que no se descomponen fácilmente y pueden volver a ser utilizados en procesos productivos como materia prima. Entre estos residuos se encuentran: algunos papeles y plásticos, chatarra, vidrio, telas, radiografías, partes y equipos obsoletos o en desuso, entre otros (Ministerio del Medio Ambiente, 2002, p.13).
       li(data-aos="fade-down")
         span.text-bold ●
-        | #[b Inertes:] son aquellos que no se descomponen ni se transforman en materia prima y su degradación natural requiere grandes períodos de tiempo. Entre estos se encuentran: el icopor, algunos tipos de papel como el papel carbón y algunos plásticos (Ministerio del Medio Ambiente, 2002, p.19).
+        | #[b Inertes:] son aquellos que no se descomponen ni se transforman en materia prima y su degradación natural requiere grandes períodos de tiempo. Entre estos se encuentran: el icopor, algunos tipos de papel como el papel carbón y algunos plásticos (Ministerio del Medio Ambiente, 2002, p.13).
       li(data-aos="fade-down")
         span.text-bold ●
-        | #[b Ordinarios o comunes:] son aquellos generados en el desempeño normal de las actividades. Estos residuos se generan en oficinas, pasillos, áreas comunes, cafeterías, salas de espera, auditorios y en general en todos los sitios del establecimiento del generador (Ministerio del Medio Ambiente, 2002, p.19).
+        | #[b Ordinarios o comunes:] son aquellos generados en el desempeño normal de las actividades. Estos residuos se generan en oficinas, pasillos, áreas comunes, cafeterías, salas de espera, auditorios y en general en todos los sitios del establecimiento del generador (Ministerio del Medio Ambiente, 2002, p.13).
 
     .titulo-segundo.color-acento-contenido
       h2 Residuos especiales

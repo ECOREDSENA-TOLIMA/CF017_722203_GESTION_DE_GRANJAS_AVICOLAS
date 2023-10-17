@@ -424,6 +424,12 @@ export default {
     },
     {
       referencia:
+        'Ministerio del Medio Ambiente. (2002). Resolución 01164 de 2002. Recuperado de ',
+      link:
+        'https://www.mincit.gov.co/ministerio/normograma-sig/procesos-de-apoyo/gestion-de-recursos-fisicos/resoluciones/resolucion-1164-de-2002.aspx',
+    },
+    {
+      referencia:
         'Ponce, V. M. (2021). <em>El sistema de evaluación ambiental de Battelle para la planificación de los recursos hídricos.</em> Ponce',
       link: 'http://ponce.sdsu.edu/el_sea_de_battelle.html',
     },
